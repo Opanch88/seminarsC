@@ -1,0 +1,15 @@
+C:\Users\Олег\Desktop\seminars    C#\seminars3\bin\Debug\net6.0\seminars3.exe
+C:\Users\Олег\Desktop\seminars    C#\seminars3\bin\Debug\net6.0\seminars3.deps.json
+C:\Users\Олег\Desktop\seminars    C#\seminars3\bin\Debug\net6.0\seminars3.runtimeconfig.json
+C:\Users\Олег\Desktop\seminars    C#\seminars3\bin\Debug\net6.0\seminars3.dll
+C:\Users\Олег\Desktop\seminars    C#\seminars3\bin\Debug\net6.0\seminars3.pdb
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.csproj.AssemblyReference.cache
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.AssemblyInfoInputs.cache
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.AssemblyInfo.cs
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.dll
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\refint\seminars3.dll
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.pdb
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\seminars3.genruntimeconfig.cache
+C:\Users\Олег\Desktop\seminars    C#\seminars3\obj\Debug\net6.0\ref\seminars3.dll

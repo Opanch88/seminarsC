@@ -171,4 +171,39 @@ Console.Write($"{a}^{b} = {PowerAB(a, b)}");
 
 
 
+//  Рекурсии на примере функции нахождения факториала.
+/*
+int Factorial(int num)
+{
+    if (num == 0)
+        return 1;
+    else
+        return num * Factorial(num - 1);
+}
 
+Console.Write("Enter a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"Factorial of a number {num} = {Factorial(num)}");
+*/
+
+//  Рекурсии на примере функции нахождения чисел Фибоначчи.
+
+/*
+
+int Fibonachi(int num)
+{
+    if (num == 0)
+        return 1;
+    if (num == 1)
+        return 1;
+    else
+        return Fibonachi(num - 1) + Fibonachi(num - 2);
+}
+
+
+Console.Write("Enter a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine($"Fibonachi {num} of a number = {Fibonachi(num)}");
+*/
